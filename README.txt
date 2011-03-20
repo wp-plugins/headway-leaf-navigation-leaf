@@ -1,4 +1,4 @@
-=== Headway Leaf: Affiliate Leaf ===
+=== Headway Leaf: Navigation Leaf ===
 Contributors: headwaythemes, ajmorris
 Donate link: http://example.com/
 Tags: headway, headway themes, headway theme, navigation, leaf 
